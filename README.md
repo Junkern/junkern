@@ -28,4 +28,4 @@ In English or German...
 
 ### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.4](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.4), 2 weeks ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.5](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.5), today) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
