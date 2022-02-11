@@ -28,6 +28,6 @@ In English or German...
 
 ### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.5.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.5.0), today) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.5.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.5.0), 1 day ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 
 - [Stocard/node-ssh-forward](https://github.com/Stocard/node-ssh-forward) ([v0.8.0](https://github.com/Stocard/node-ssh-forward/releases/tag/v0.8.0), 4 weeks ago) - Another easy node ssh forwarding lib (with port forwarding and jump host support)
