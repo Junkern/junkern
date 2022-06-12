@@ -32,4 +32,4 @@ In English or German...
 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.16.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.16.0), 4 months ago) - Terraform Docker provider
 
-- [Stocard/node-ssh-forward](https://github.com/Stocard/node-ssh-forward) ([v0.8.0](https://github.com/Stocard/node-ssh-forward/releases/tag/v0.8.0), 4 months ago) - Another easy node ssh forwarding lib (with port forwarding and jump host support)
+- [Stocard/node-ssh-forward](https://github.com/Stocard/node-ssh-forward) ([v0.8.0](https://github.com/Stocard/node-ssh-forward/releases/tag/v0.8.0), 5 months ago) - Another easy node ssh forwarding lib (with port forwarding and jump host support)
