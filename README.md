@@ -30,6 +30,6 @@ In English or German...
 
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.0), 1 week ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.22.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.22.0), 4 weeks ago) - Terraform Docker provider
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.22.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.22.0), 1 month ago) - Terraform Docker provider
 
 - [Stocard/node-ssh-forward](https://github.com/Stocard/node-ssh-forward) ([v0.8.0](https://github.com/Stocard/node-ssh-forward/releases/tag/v0.8.0), 9 months ago) - Another easy node ssh forwarding lib (with port forwarding and jump host support)
