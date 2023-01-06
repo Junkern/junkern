@@ -32,4 +32,6 @@ In English or German...
 
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.1), 3 weeks ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.15.0-cdk.1](https://github.com/superwerker/superwerker/releases/tag/v0.15.0-cdk.1), 1 month ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
+
 - [Stocard/node-ssh-forward](https://github.com/Stocard/node-ssh-forward) ([v0.8.0](https://github.com/Stocard/node-ssh-forward/releases/tag/v0.8.0), 11 months ago) - Another easy node ssh forwarding lib (with port forwarding and jump host support)
