@@ -32,4 +32,4 @@ In English or German...
 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.1](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.1), 1 month ago) - Terraform Docker provider
 
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.1), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.1), 2 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
