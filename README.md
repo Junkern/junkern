@@ -30,6 +30,6 @@ In English or German...
 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.2](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.2), 1 month ago) - Terraform Docker provider
 
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.2](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.2), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.2](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.2), 2 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.15.0](https://github.com/superwerker/superwerker/releases/tag/v0.15.0), 3 months ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
