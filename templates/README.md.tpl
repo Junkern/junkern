@@ -1,11 +1,11 @@
 ### Hi
 
-I am Martin, a Cloud Consultant at Kreuzwerker in Frankfurt. I'm a DevOps Engineer and have a strong skillset in AWS. In addition to that I am also versed in building high-performant Node.js backends. I love my customers to succeed in their business and will help them by delivering top-notch software.
+I am Martin. I'm a DevOps Engineer and have a strong skillset in AWS. In addition to that I am also versed in building high-performant Node.js backends.
 
 #### 📫 How to reach me
 In English or German...
 
-- Mail: martin.wentzel[at]kreuzwerker.de
+- Mail: info[at]martinwentzel.com
 
 ## Languages and Tools
 
