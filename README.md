@@ -1,9 +1,6 @@
 ### Hi
 
-I am Martin. DevOps and Backend Engineer with 7+ years of experience building scalable infras-
-tructure, services and ecosystems. Strong focus on cloud-native architecture (AWS,
-Kubernetes), CI/CD automation, and reliability engineering. Proven ability to lead
-cross-functional teams and modernize deployment workflows. 7x AWS Certified.
+I am Martin. DevOps and Backend Engineer with 7+ years of experience building scalable infrastructure, services and ecosystems. Strong focus on cloud-native architecture (AWS, Kubernetes), CI/CD automation, and reliability engineering. Proven ability to lead cross-functional teams and modernize deployment workflows. 7x AWS Certified.
 
 I see documentation as a first-class citizen. My goal is to deliver and run high-quality
 software in quick iteration cycles, optimized resource usage and minimized costs.
@@ -18,13 +15,13 @@ In English or German...
 
 <p>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
   <br />
  
 </p>
@@ -33,3 +30,7 @@ In English or German...
 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.7.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.7.0), today) - Terraform Docker provider
 
+
+### ❤️ These awesome people sponsor me (thank you!)
+
+... no sponsors, yet.
