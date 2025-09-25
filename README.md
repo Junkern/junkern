@@ -31,4 +31,5 @@ In English or German...
 
 ### 🔭 Latest releases I've contributed to
 
-... no contributions yet. But they are in the making
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.7.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.7.0), today) - Terraform Docker provider
+
