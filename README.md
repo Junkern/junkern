@@ -28,10 +28,10 @@ In English or German...
 
 ### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.7.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.7.0), 6 days ago) - Terraform Docker provider
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.7.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.7.0), 1 week ago) - Terraform Docker provider
 
 
 ### ❤️ These awesome people sponsor me (thank you!)
 
-- [StoneMonarch](https://github.com/StoneMonarch) (3 days ago)
+- [StoneMonarch](https://github.com/StoneMonarch) (4 days ago)
 
