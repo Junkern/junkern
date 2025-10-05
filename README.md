@@ -33,5 +33,5 @@ In English or German...
 
 ### ❤️ These awesome people sponsor me (thank you!)
 
-- [StoneMonarch](https://github.com/StoneMonarch) (6 days ago)
+- [StoneMonarch](https://github.com/StoneMonarch) (1 week ago)
 
