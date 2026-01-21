@@ -33,4 +33,5 @@ In English or German...
 
 ### ❤️ These awesome people sponsor me (thank you!)
 
-... no sponsors, yet.
+- [coder](https://github.com/coder) (today)
+
