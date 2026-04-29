@@ -1,10 +1,8 @@
 ### Hi
 
-I am Martin. DevOps and Backend Engineer with 7+ years of experience building scalable infrastructure, services and ecosystems. Strong focus on cloud-native architecture (AWS, Kubernetes), CI/CD automation, and reliability engineering. Proven ability to lead cross-functional teams and modernize deployment workflows. 7x AWS Certified.
+I am Martin. Platform Engineer with 7+ years of experience building scalable infrastructure, services and ecosystems. Strong focus on cloud-native architecture (AWS, Kubernetes), CI/CD automation, and reliability engineering. 
 
-I see documentation as a first-class citizen. My goal is to deliver and run high-quality
-software in quick iteration cycles, optimized resource usage and minimized costs.
-Programming languages are just a tool to deliver business value.
+I see documentation as a first-class citizen. Programming languages are just a tool to deliver business value.
 
 #### 📫 How to reach me
 In English or German...
