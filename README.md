@@ -33,5 +33,7 @@ In English or German...
 
 ### ❤️ These awesome people sponsor me (thank you!)
 
+- [pose](https://github.com/pose) (today)
+
 - [coder](https://github.com/coder) (4 months ago)
 
