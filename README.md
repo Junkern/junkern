@@ -35,5 +35,5 @@ In English or German...
 
 ### ❤️ These awesome people sponsor me (thank you!)
 
-- [coder](https://github.com/coder) (5 months ago)
+- [coder](https://github.com/coder) (6 months ago)
 
