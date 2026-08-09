@@ -26,7 +26,7 @@ In English or German...
 
 ### 🔭 Latest releases I've contributed to
 
-- [Junkern/terraform-provider-wordpress](https://github.com/Junkern/terraform-provider-wordpress) ([v0.3.0](https://github.com/Junkern/terraform-provider-wordpress/releases/tag/v0.3.0), 3 days ago) - Terraform Wordpress provider
+- [Junkern/terraform-provider-wordpress](https://github.com/Junkern/terraform-provider-wordpress) ([v0.3.0](https://github.com/Junkern/terraform-provider-wordpress/releases/tag/v0.3.0), 4 days ago) - Terraform Wordpress provider
 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v4.5.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v4.5.0), 1 month ago) - Terraform Docker provider
 
