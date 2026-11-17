@@ -26,7 +26,7 @@ In English or German...
 
 ### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v4.7.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v4.7.0), 5 days ago) - Terraform Docker provider
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v4.7.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v4.7.0), 6 days ago) - Terraform Docker provider
 
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([v0.10.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/v0.10.1), 2 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 
@@ -35,5 +35,5 @@ In English or German...
 
 ### ❤️ These awesome people sponsor me (thank you!)
 
-- [coder](https://github.com/coder) (9 months ago)
+- [coder](https://github.com/coder) (10 months ago)
 
